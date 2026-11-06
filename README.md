@@ -6,8 +6,8 @@
 To access the laptop camera, capture an image, and detect objects present in the captured image using the YOLOv8 object detection model.
 
 # Software Requirements
-    * Anaconda
-    * Jupyter Notebook
+    . Anaconda
+    .  Jupyter Notebook
     * Python
     * OpenCV (cv2)
     * Ultralytics YOLOv8
@@ -22,6 +22,7 @@ To access the laptop camera, capture an image, and detect objects present in the
 6. Display the detected image with bounding boxes and labels.
 
 # Algorithm
+```
        Laptop Camera
              |
              v
@@ -42,6 +43,7 @@ To access the laptop camera, capture an image, and detect objects present in the
              |
              v
        Final Output
+```
 
 # Program
 ```
